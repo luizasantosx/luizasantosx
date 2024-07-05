@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu perfil 
 
- <img align="right" alt="imgluiza" height="280" src="https://miro.medium.com/v2/resize:fit:1400/0*SPjH6EGSjLcMPv8Q.jpg">
+ <img align="right" alt="imgluiza" height="250" src="https://miro.medium.com/v2/resize:fit:1400/0*SPjH6EGSjLcMPv8Q.jpg">
 </div>
 
 <div>
