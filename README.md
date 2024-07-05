@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu perfil 
 
- <img align="right" alt="imgluiza" height="280" src="https://img.freepik.com/free-vector/designer-girl-workplace_24877-76560.jpg?size=626&ext=jpg&ga=GA1.1.788404181.1720191776&semt=ais_user">
+ <img align="right" alt="imgluiza" height="280" src="https://miro.medium.com/v2/resize:fit:1400/0*SPjH6EGSjLcMPv8Q.jpg">
 </div>
 
 <div>
