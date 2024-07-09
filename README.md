@@ -1,11 +1,10 @@
 ## Bem-vindo ao meu perfil 
 
-<img align="right" alt="imgluiza" height="240" width="400" src="https://blog.hubdodesenvolvedor.com.br/wp-content/uploads/2024/03/capa-linguagens-em-alta.jpg">
 </div>
 
 <div>
   <a href="https://github.com/luizasantosx">
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizasantosx&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizasantosx&layout=compact&langs_count=6&theme=jolly"/>
     
 </div>
